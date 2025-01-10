@@ -3,3 +3,4 @@ python selenium kütüphanesi kullanılarak, chrome driver ile e arşiv üzerind
 
 excel dosyasına hazırlayacağınız faturalarınız için scripti kullanabilirsiniz. 
 
+hocam video linkini verirmisin
